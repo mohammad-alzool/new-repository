@@ -11,4 +11,4 @@ I am determined to become a programmer and today I will talk about a growth mind
 
 |                                   Read#                     |               link                     |
 | :---------------------------------------------------------: | :-----------------------------------------------------------: |
-|                Read: 01 - growth mindset                    | [link](https://mohammad-alzool.github.io/new-repository/aa.md)  |
+|                Read: 01 - growth mindset                    | [link](https://mohammad-alzool.github.io/new-repository/aaa)  |
