@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+**## Growth mindset**
 
-You can use the [editor on GitHub](https://github.com/mohammad-alzool/new-repository/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello all
+My name is _Mohamed Al-Zool_
+I am a mechanical engineer specializing in the design, manufacture and production of industrial machinery
+I am determined to become a programmer and today I will talk about a growth mindset.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What is growth mindset ?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![growth mindset](https://github.com/mohammad-alzool/new-repository/blob/main/growth-mindset3.png)
 
-```markdown
-Syntax highlighted code block
+simply growth mindset it is the belief that a person`s abilities and intelligence can be devloped through practice,hard work,dedication and motivation.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Ways to Develop a Growth Mindset. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+1. View challenges as opportunities.
+2. Replace the word “failing” with the word “learning”.
+3. Cultivate a sense of purpose.
+4. Make a new goal for every goal accomplished.
+5. Think realistically about time and effort.
+6. Take ownership over your attitude.
+7. Emphasise growth over speed.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- For more details about mindset growth you can read this [articel](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/). or this [articel](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohammad-alzool/new-repository/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- and you can see what iam doing on my [github profile](https://github.com/mohammad-alzool)
