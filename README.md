@@ -1,4 +1,4 @@
-**## Growth mindset**
+## Growth mindset
 
 Hello all
 My name is _Mohamed Al-Zool_
