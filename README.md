@@ -8,7 +8,7 @@ I am determined to become a programmer and today I will talk about a growth mind
 
 ### What is growth mindset ?
 
-![growth mindset](https://github.com/mohammad-alzool/new-repository/blob/main/growth-mindset3.png)
+![growth mindset](https://raw.githubusercontent.com/mohammad-alzool/new-repository/main/growth-mindset3.png)
 
 simply growth mindset it is the belief that a person`s abilities and intelligence can be devloped through practice,hard work,dedication and motivation.
 
